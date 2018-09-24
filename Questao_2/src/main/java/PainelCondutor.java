@@ -1,4 +1,4 @@
-
+//interface para o objeto dummy
 public interface PainelCondutor {
 	public boolean imprimirAviso(String msg, int prioridade);
 	public void aceleraVelocidadeTrem(double valor);
